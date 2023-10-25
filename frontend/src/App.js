@@ -13,8 +13,8 @@ function App() {
 
   return (
     <div className="flex flex-row h-screen p-4 w-screen bg-blue-100">
-    <SideBar />
-    <SubContent />
+    
+    
     <Content/>
   
     </div>
